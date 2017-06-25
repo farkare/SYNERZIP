@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  price: 1.5
+  color: red
+  status: 0
+  inward_date: 2017-06-25 13:25:33
+  type: Pen
+  description: MyString
+
+two:
+  name: MyString
+  price: 1.5
+  color: blue
+  status: 0
+  inward_date: 2017-06-25 13:25:33
+  type: Notebook
+  description: MyString
